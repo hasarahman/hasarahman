@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hasarahman
 - 👀 I’m interested in cloud services.
 - 🌱 I’m currently learning IaC and exploring various web development tools.
-- 📫 Check out my website built on top of Firebase - https://hasrahman.com/
+- 📫 Check out my website built on top of Firebase - hasrahman.com
 - ☁️ Certifications
     - Google Cloud Professional Cloud Architect
     - VMware Professional Data Center Virtualization
