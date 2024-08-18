@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasarahman
 - 👀 I’m interested in cloud services.
-- 🌱 I’m currently learning IaC and exploring various web development tools.
+- 🌱 I’m currently learning about GenAI and exploring various web development tools.
 - 📫 Check out my website built on top of Firebase - https://hasrahman.com/
 - ☁️ Certifications
     - Google Cloud Professional Cloud Architect
